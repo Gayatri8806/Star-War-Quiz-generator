@@ -8,4 +8,4 @@ This project generates multiple-choice quizzes (MCQs) from Star War  using a no-
 
 3. Customizable: Choose how many questions you want.
 
-4. Flexible: Replace the Harry Potter text with any other book or subject.
+4. Flexible: Replace the Star War text with any other book or subject.
